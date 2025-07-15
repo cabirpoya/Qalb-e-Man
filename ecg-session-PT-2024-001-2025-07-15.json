@@ -1,0 +1,42 @@
+{
+  "patient": {
+    "id": "PT-2024-001",
+    "name": "John Doe",
+    "age": 45,
+    "gender": "male",
+    "weight": 75,
+    "height": 175,
+    "medicalHistory": [
+      "Hypertension",
+      "Type 2 Diabetes"
+    ],
+    "currentMedications": [
+      "Metformin 500mg",
+      "Lisinopril 10mg"
+    ]
+  },
+  "vitalSigns": {
+    "heartRate": 75,
+    "bloodPressure": {
+      "systolic": 122,
+      "diastolic": 79
+    },
+    "oxygenSaturation": 97.14803404244523,
+    "temperature": 36.95733482419851,
+    "respiratoryRate": 14,
+    "timestamp": "2025-07-15T01:06:24.966Z"
+  },
+  "ecgData": [],
+  "settings": {
+    "sweepSpeed": 25,
+    "gain": 10,
+    "filterSettings": {
+      "lowPass": 40,
+      "highPass": 0.5,
+      "notch": true
+    },
+    "displayMode": "3x4"
+  },
+  "alerts": [],
+  "timestamp": "2025-07-15T01:08:29.571Z"
+}

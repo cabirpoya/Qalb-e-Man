@@ -1,0 +1,29 @@
+
+CLINICAL ECG REPORT
+==================
+
+Patient: John Doe (ID: PT-2024-001)
+Age: 45 years, Gender: male
+Date: 7/15/2025
+Time: 5:47:19 AM
+
+INTERPRETATION:
+Normal sinus rhythm
+Rate: 75 BPM
+Axis: Normal
+
+INTERVALS:
+PR: N/A ms (Normal)
+QRS: N/A ms (Normal)
+QT: N/A ms (Normal)
+QTc: N/A ms (Normal)
+
+CLINICAL CORRELATION:
+Normal ECG findings
+
+RECOMMENDATIONS:
+Continue routine monitoring
+
+Electronically signed by: Dr. Sarah Wilson, MD
+Cardiologist
+    
